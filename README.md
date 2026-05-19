@@ -1,6 +1,6 @@
 # Organizador de Arquivos
 
-Aplicativo desktop para organizar automaticamente arquivos de uma pasta em subpastas por categoria (Imagens, PDFs, Vídeos, etc.).
+Aplicativo desktop para organizar automaticamente arquivos de uma pasta em subpastas por categoria (Imagens, Documentos, Vídeos, etc.).
 
 ## Funcionalidades
 
