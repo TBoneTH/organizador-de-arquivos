@@ -1,15 +1,15 @@
-# 🗂️ Organizador de Arquivos
+# Organizador de Arquivos
 
 Aplicativo desktop para organizar automaticamente arquivos de uma pasta em subpastas por categoria (Imagens, PDFs, Vídeos, etc.).
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Interface gráfica moderna com tema escuro
 - Barra de progresso em tempo real
 - Log de todos os arquivos movidos
 - Evita sobrescrever arquivos com nomes duplicados
 
-## 🚀 Como usar
+## Como usar
 
 ### Rodando pelo Python
 
@@ -29,7 +29,7 @@ Aplicativo desktop para organizar automaticamente arquivos de uma pasta em subpa
    python main.py
    ```
 
-## 🗂️ Categorias suportadas
+## Categorias suportadas
 
 | Categoria | Extensões |
 |---|---|
@@ -43,7 +43,7 @@ Aplicativo desktop para organizar automaticamente arquivos de uma pasta em subpa
 | Compactados | .rar, .zip, .7z, .tar, .gz |
 | Texto | .txt |
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - Python 3
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
